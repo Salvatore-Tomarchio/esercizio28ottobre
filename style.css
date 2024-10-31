@@ -1,0 +1,67 @@
+header{
+    text-align: center;
+}
+
+.immagine{
+    width: 350px;
+}
+
+nav{
+    margin: 20px;
+    height: 50px;
+    background-color: rgb(237, 195, 146);
+}
+
+.navbar{
+    text-align: center;
+}
+
+hr{
+    border: solid 1 px;
+    color: rgb(250, 143, 2);
+}
+
+main{
+    margin: auto;
+}
+
+.main_content{
+    margin: auto;
+    text-align: center;
+    width: 650px;
+}
+
+.immagine2{
+    width: 650px;
+    height: 450px;
+}
+
+.recognitions{
+    margin: 5px;
+    color: darkgray;
+}
+
+.description{
+    margin: auto;
+    width: 650px;
+}
+
+#description{
+    margin: 0;
+    color: orangered;
+}
+
+#description2{
+    margin: 0;
+    color: rgb(82, 151, 186);
+}
+
+#linea{
+    border: solid 1px;
+    color: rgb(82, 151, 186);
+}
+
+footer{
+    margin: auto;
+    width: 650px;
+}
